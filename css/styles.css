@@ -1,0 +1,222 @@
+body {
+  background-color: #000000fa;
+}
+
+.navbar {
+  background-color: #3f3f44;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fcfdff;
+}
+
+.items {
+  padding-right: 30rem;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  margin-right: 1.5rem;
+  margin-left: 1.5rem;
+}
+
+#Container1 {
+  margin: 0.5rem;
+}
+
+#Container2 {
+  margin: 0.5rem;
+}
+
+#NavContainer {
+  margin: 0.5rem;
+}
+
+#developline {
+  text-align: center;
+  color: #f3e8cb;
+  /* font-family: 'Lobster', cursive; */
+  margin-top: 3.5rem;
+  font-size: 1.4rem;
+  font-family: 'EB Garamond', serif
+}
+
+#intropara {
+  font-size: 3rem;
+  font-family: 'Sansita Swashed', cursive;
+  /* font-family: 'Anton', sans-serif; */
+  /* font-family: 'Lobster', cursive; */
+}
+
+#introdution {
+  font-size: 1.5rem;
+  color: #f3e8cb;
+  margin-left: 4rem;
+  margin-top: 3rem;
+  margin-bottom: 7rem;
+  /* font-family: 'Indie Flower', cursive; */
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#heading1 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  font-size: 5rem;
+  font-weight: bold;
+  font-family: 'Lobster', cursive;
+}
+
+.para {
+  text-align: center;
+  color: #f3e8cb;
+  /* font-family: 'Indie Flower', cursive; */
+  font-size: 2rem;
+  font-family: 'EB Garamond', serif
+}
+
+.home {
+  padding-left: 7rem;
+}
+
+/* OUR SERVICES */
+#ourservice {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: white;
+}
+
+.img {
+  width: 500px;
+}
+
+#ourAcheivments {
+  background-color: black;
+
+}
+
+.container-fluid{
+  padding: 7% 15%;
+
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+  color:  #f3e8cb;
+}
+
+.text{
+  color:  #f3e8cb;
+}
+
+.Acheivments{
+  color: #f3e8cb;
+  text-align: center;
+}
+
+.service {
+  margin-left: 2rem;
+  padding-top: 1.5rem;
+  color: #333333;
+  font-family: 'Lobster', cursive;
+}
+
+#corona {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.coronah3 {
+  color: #f3e8cb;
+  font-family: 'Anton', sans-serif;
+  padding-top: 5rem;
+  padding-left: 2rem;
+}
+
+#Bookclass {
+  text-align: center;
+  background-color: #fff;
+  padding-top: 5rem;
+}
+
+.headingBookClass {
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: 'Lobster', cursive;
+  color: #333333;
+}
+
+.form {
+  padding-top: 6rem;
+  padding-bottom: 5rem;
+}
+
+.fees {
+  padding-top: 7rem;
+  font-weight: bold;
+  font-family: 'Anton', sans-serif;
+  color: #333333;
+}
+
+#Contactus {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  text-align: center;
+}
+
+.Follow {
+  color: #f3e8cb;
+  font-weight: bold;
+  padding-bottom: 2rem;
+}
+
+/* FOOTER SECTION */
+.footer-icon {
+  margin: 20px 10px;
+}
+
+.fa-facebook-f {
+  color: blue;
+}
+
+.fa-instagram {
+  color: pink;
+}
+
+.fa-twitter {
+  color: #87CEFA
+}
+
+.fa-envelope {
+  color: white;
+}
+
+.copyright{
+  padding-top: 2rem;
+  color:#f3e8cb;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 18px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
