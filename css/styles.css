@@ -1,13 +1,13 @@
 body {
-  background-color: #000000fa;
+  background-color: #d5f3ff;
 }
 
 .navbar {
-  background-color: #3f3f44;
+  background-color: #d5f3ff;
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  color: #fcfdff;
+  color: #161637;
 }
 
 .items {
@@ -33,7 +33,7 @@ body {
 
 #developline {
   text-align: center;
-  color: #f3e8cb;
+  color: #161637;
   /* font-family: 'Lobster', cursive; */
   margin-top: 3.5rem;
   font-size: 1.4rem;
@@ -49,7 +49,7 @@ body {
 
 #introdution {
   font-size: 1.5rem;
-  color: #f3e8cb;
+  color: #161637;
   margin-left: 4rem;
   margin-top: 3rem;
   margin-bottom: 7rem;
@@ -67,7 +67,7 @@ body {
 
 .para {
   text-align: center;
-  color: #f3e8cb;
+  color:#161637;
   /* font-family: 'Indie Flower', cursive; */
   font-size: 2rem;
   font-family: 'EB Garamond', serif
@@ -89,7 +89,7 @@ body {
 }
 
 #ourAcheivments {
-  background-color: black;
+  background-color: #d5f3ff;
 
 }
 
@@ -107,15 +107,17 @@ body {
 .testimonial-text {
   font-size: 3rem;
   line-height: 1.5;
-  color:  #f3e8cb;
+  color:  #161637;;
 }
 
+
+
 .text{
-  color:  #f3e8cb;
+  color:  #161637;;
 }
 
 .Acheivments{
-  color: #f3e8cb;
+  color: #161637;
   text-align: center;
 }
 
@@ -132,7 +134,7 @@ body {
 }
 
 .coronah3 {
-  color: #f3e8cb;
+  color: #161637;;
   font-family: 'Anton', sans-serif;
   padding-top: 5rem;
   padding-left: 2rem;
@@ -170,7 +172,7 @@ body {
 }
 
 .Follow {
-  color: #f3e8cb;
+  color:#161637;
   font-weight: bold;
   padding-bottom: 2rem;
 }
@@ -200,7 +202,7 @@ body {
 
 .copyright{
   padding-top: 2rem;
-  color:#f3e8cb;
+  color: #d5f3ff;
 }
 
 #myBtn {
@@ -211,8 +213,8 @@ body {
   z-index: 99;
   border: none;
   outline: none;
-  background-color: black;
-  color: white;
+  background-color: #d5f3ff;
+  color: #161637;
   cursor: pointer;
   padding: 15px;
   border-radius: 10px;
@@ -224,5 +226,5 @@ body {
 }
 
 .fa-arrow-up{
-  color: white;
+  color: #161637;
 }
