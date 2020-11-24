@@ -197,12 +197,12 @@ body {
 }
 
 .fa-envelope {
-  color: white;
+  color: red;
 }
 
 .copyright{
   padding-top: 2rem;
-  color: #d5f3ff;
+  color: #161637;
 }
 
 #myBtn {
